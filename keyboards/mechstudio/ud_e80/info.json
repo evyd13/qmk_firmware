@@ -10,12 +10,20 @@
         "console": false,
         "extrakey": true,
         "mousekey": true,
-        "nkro": true
+        "nkro": true,
+        "rgblight": true
     },
     "indicators": {
         "caps_lock": "B2",
         "scroll_lock": "B1",
         "num_lock": "B3"
+    },
+    "rgblight": {
+        "pin": "B0",
+        "led_count": 12,
+        "animations": {
+            "all": true
+        }
     },
     "matrix_pins": {
         "cols": ["F0", "F1", "F4", "F5", "F6", "F7", "C7", "B7", "D0"],
