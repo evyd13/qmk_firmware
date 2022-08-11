@@ -1,0 +1,20 @@
+# 60D
+
+#![60D](https://i.imgur.com/x)
+
+## Support
+* Keyboard Maintainer: [NecromanX](https://github.com/dejaeghered)
+* Hardware Supported: 60D
+* Hardware Availability: [mech.studio](https://mech.studio/projects/60d/)
+
+## Features
+- QMK Firmware
+- USB-C Connector
+- no in switch LEDs
+
+## Build
+Make example for this keyboard (after setting up your build environment):
+
+    make mechstudio/60D:default
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
