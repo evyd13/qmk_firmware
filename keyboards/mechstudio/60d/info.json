@@ -13,13 +13,6 @@
         "nkro": true,
         "rgblight": true
     },
-    "rgblight": {
-        "pin": "E6",
-        "led_count": 4,
-        "animations": {
-            "all": true
-        }
-    },
     "matrix_pins": {
         "cols": ["D5", "D3", "D2", "D1", "D0", "C7", "C6", "B6", "B5", "F0", "F1", "F4", "F5", "F7", "F6"],
         "rows": ["D4", "D6", "D7", "B4", "E6"]

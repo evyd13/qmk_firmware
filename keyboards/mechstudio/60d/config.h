@@ -5,6 +5,9 @@
 
 #define LED_PIN_ON_STATE 0
 
+#define RGB_DI_PIN E6
+#define RGBLED_NUM 4
+#define RGBLIGHT_ANIMATIONS
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
